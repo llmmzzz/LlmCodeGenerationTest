@@ -1,0 +1,1 @@
+{"model_name": "codellama/CodeLlama-7b-hf", "max_length": "800", "num_return_sequences": "1", "temperature": "0.1", "do_sample": "True", "top_k": "50", "top_p": "1.0", "no_repeat_ngram_size": "1"}
